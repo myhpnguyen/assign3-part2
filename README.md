@@ -1,2 +1,20 @@
-# assign3-part2
-assignment 3 part 2
+# investments-fe
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+# assign3-investments-part2-frontend-myhpnguyen
