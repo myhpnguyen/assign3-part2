@@ -71,7 +71,7 @@ export default {
       router.push('/investment-list');
     },
     viewStocks() {
-      router.push('/customer-list');
+      router.push('/stock-list');
     },
     getUser() {
       if (localStorage.getItem("isAuthenticated")
